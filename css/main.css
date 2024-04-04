@@ -9,6 +9,8 @@
     grid-column: 1/3;
     text-align: center;
     background-color: aquamarine;
+    margin: 2%;
+    padding: 2%;
 }
 
 #container .pie-{
@@ -16,4 +18,8 @@
     grid-column: 1/3;
     text-align: center;
     background-color: aquamarine;
+}
+
+#container .foto{
+    
 }
